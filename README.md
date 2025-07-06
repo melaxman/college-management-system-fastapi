@@ -74,12 +74,14 @@ This will run both FastAPI + PostgreSQL in containers.
 
 1. Build and run using Docker Compose:
 
-   ```docker-compose up --build
+   ```bash
+   docker-compose up --build
    ```
 
 2. Access the app in your browser:
 
-   ```http://localhost:8080
+   ```bash
+   http://localhost:8080
    ```
 
 ---
