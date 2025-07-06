@@ -35,6 +35,33 @@ A comprehensive web application to manage **students**, **departments**, and **e
 
 ---
 
+
+
+## Create a New Server Connection (Postgresql)
+1.In pgAdmin, right-click on Servers in the left sidebar and select Create > Server....
+
+2.In the Create - Server dialog:
+
+- **General Tab:**
+
+```bash
+Name: Give a name to your connection, e.g., ElectiveManagementDB or CollegeDB.
+```
+- **Connection Tab:**
+```bash
+Host name/address: localhost (or the IP address where PostgreSQL is running)
+
+Port: 5432 (default PostgreSQL port)
+
+Maintenance database: postgres (or your database name)
+
+Username: postgres (or the configured user)
+
+Password: Your PostgreSQL password (e.g., postgres)
+```
+
+3Click Save.
+
 ### 💻 Local Backend Setup (without Docker)
 
 1. **Clone the repository**:
