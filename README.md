@@ -67,7 +67,7 @@ Name: Give a name to your connection, e.g., ManagementDB or CollegeDB.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/college-management-system-fastapi.git
+   git clone https://github.com/melaxman/college-management-system-fastapi.git
    cd college-management-system-fastapi
 
 
@@ -93,7 +93,7 @@ Name: Give a name to your connection, e.g., ManagementDB or CollegeDB.
    uvicorn main:app --reload
    ```
 
-   The API will be available at `http://localhost:8000`.
+   The API will be available at `http://localhost:8080`.
 
 # 🐳 Docker Deployment
 
@@ -116,7 +116,7 @@ This will run both FastAPI + PostgreSQL in containers.
 ### Frontend Setup
 
 - Open the `index.html` file in your browser.
-- Ensure the backend is running and accessible at the expected URL (default `http://localhost:8000`).
+- Ensure the backend is running and accessible at the expected URL (default `http://localhost:8080`).
 - Use the login form to authenticate, then access and manage students, departments, and enrollments.
 
 ---
