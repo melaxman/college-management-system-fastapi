@@ -60,7 +60,7 @@ Name: Give a name to your connection, e.g., ManagementDB or CollegeDB.
 5. Password: Your PostgreSQL password (e.g., postgres)
 ```
 
-3Click Save.
+3.Click Save.
 
 ### 💻 Local Backend Setup (without Docker)
 
