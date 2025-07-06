@@ -1,6 +1,6 @@
 # College Management System
 
-A comprehensive web application to manage **students**, **departments**, and **enrollments** for a college, built with a FastAPI backend and a clean, user-friendly HTML/JavaScript frontend.
+A comprehensive web application to manage **students**, **departments**, and **enrollments** for a college, built with a backend(FastAPI , SQLAlchemy ORM, PostgreSQ)L and a clean, user-friendly HTML/JavaScript frontend with Authentication(OAuth2 Password flow with JWT tokens) and Containerization.
 
 ---
 
