@@ -135,13 +135,14 @@ You can change this in the auth.py file.
 Below is a screenshot of the College Management System in action:
 
 
-![Dashboard Screenshot](assets\dashboardc.PNG)
+![Dashboard Screenshot](assets/dashboardc.PNG)
 
-![Students Screenshot](assets\students.PNG)
+![Students Screenshot](assets/students.PNG)
 
-![Department Screenshot](assets\deaprtment.PNG)
+![Department Screenshot](assets/deaprtment.PNG)
 
-![Enrollmwnts Screenshot](assets\enrollment.PNG)
+![Enrollments Screenshot](assets/enrollment.PNG)
+
 
 ## License
 
