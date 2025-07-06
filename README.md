@@ -173,12 +173,12 @@ Below is a screenshot of the College Management System in action:
 ## Departments:
 
 
-![Department Screenshot](assets/deaprtment.PNG)
+![Department Screenshot](assets/depar.PNG)
 
 
 ## Enrollments:
 
-![Enrollments Screenshot](assets/enrollment.PNG)
+![Enrollments Screenshot](assets/enll.PNG)
 
 
 ## License
