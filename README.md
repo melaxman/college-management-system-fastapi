@@ -134,12 +134,22 @@ You can change this in the auth.py file.
 
 Below is a screenshot of the College Management System in action:
 
+This is DashBoaed:
 
 ![Dashboard Screenshot](assets/dashboardc.PNG)
 
+students:
+
 ![Students Screenshot](assets/students.PNG)
 
+
+Departments:
+
+
 ![Department Screenshot](assets/deaprtment.PNG)
+
+
+Enrollments:
 
 ![Enrollments Screenshot](assets/enrollment.PNG)
 
