@@ -45,7 +45,7 @@ A comprehensive web application to manage **students**, **departments**, and **e
 - **General Tab:**
 
 ```bash
-Name: Give a name to your connection, e.g., ElectiveManagementDB or CollegeDB.
+Name: Give a name to your connection, e.g., ManagementDB or CollegeDB.
 ```
 - **Connection Tab:**
 ```bash
